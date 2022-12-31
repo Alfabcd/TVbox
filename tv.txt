@@ -1,20 +1,17 @@
 电视,#genre#
 广东珠江,http://61.143.45.150:9901/tsfile/live/0018_1.m3u8
-周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
 翡翠台[1920*1080],http://23.237.10.66:16106
-J2[1280*720],https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 香港有線新聞[1280*720],http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 凤凰资讯,http://120.84.96.74:808/hls/86/index.m3u8
 明珠台,http://120.84.96.74:808/hls/86/index.m3u8
 无线财经,http://120.84.96.74:808/hls/86/index.m3u8
 幸福娱乐[1920*1080],http://beifeng.site:4000/udp/239.3.1.113:8001
-足球频道[1920*1080],https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 TVBS新闻台[1920*1080],http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 明星电影,#genre#
-历年贺岁大片,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 历年贺岁档,http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 周星驰,http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
 周星驰-粤语,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
@@ -34,23 +31,10 @@ TVBS新闻台[1920*1080],http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3
 赛车系列,http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
 王晶导演,http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
 喜剧系列,http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-香港女神系列,http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 玄幻系列,http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
 咏春系列,http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
 中国功夫,http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-滚滚长江东逝水,http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.xs
-身世神秘的范闲书写人生传奇,http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
-铁齿铜ya纪晓岚,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
-葵花点穴手我是李大嘴,http://txtest-xp2p.p2p.huya.com/src/1099531752788-1099531752788-86436268371607552-2199063629032-10057-A-0-1.xs
-封神榜-陈浩民版哪吒,http://txtest-xp2p.p2p.huya.com/src/1199561158071-1199561158071-5434346901866545152-2399122439598-10057-A-0-1.xs
 
-电影,#genre#
-CHC动作电影[1920*1080],http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
-CHC家庭影院[1920*1080],http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
-CHC家庭影院[1920*1080],http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8
-CHC高清電影[1920*1080],http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
-经典再现[1920*1080],http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
-高清影院[1920*1080],http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 
 香港频道,#genre#
 有线新闻台[1280*720],http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
@@ -66,8 +50,6 @@ TVBJ2[1280*720],https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 天映频道[1280*720],http://51.79.82.208:16024
 
 央视频道,#genre#
-超级电影[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225623/index.m3u8
-超级电视剧[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225625/index.m3u8
 CCTV1[1280*720],http://39.134.115.221:8080/PLTV/88888910/224/3221225630/index.m3u8
 CCTV2[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225647/index.m3u8
@@ -91,41 +73,3 @@ CCTV9[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225626/index.m
 CCTV11[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225628/index.m3u8
 CGTN记录[1024*576],http://39.134.115.221:8080/PLTV/88888910/224/3221225645/index.m3u8
 CCTV5+[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225649/index.m3u8
-超级体育[1920*1080],http://39.134.115.221:8080/PLTV/88888910/224/3221225648/index.m3u8
-
-热门网游,#genre#
-穿越火线赛事专用[1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr_2000p.flv?wsAuth=4b45f39c3ec5ff50f5d3fb2d9fa0f8d8&token=cpn-androidmpro-0-605964-b9be22700076c08568ecbbb2b34d359848160d1c21338b93&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-和平精英官方赛事[1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=f8898eeb6c6fd61c73186096a42e00f7&token=cpn-androidmpro-0-999-d32d75306aab2a794b6f0a14242c01dc6c0886600832485c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-英雄联盟赛事[1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1a/288016rlols5_2000p.flv?wsAuth=f89c5c3faab706c9cd28b45f1ccc5e47&token=cpn-androidmpro-0-288016-e9416291174176eee9b3825501dde79efa77bb448ac7accb&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-CF手游[1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=3d7ecc820a0dfa65315b277b8ee45a8a&token=cpn-androidmpro-0-868191-846aacab1859214ca2c59e7e20572987cc6508acc57c58b1&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-QQ飞车手游官方直播间[1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1a/5040227raXQRnvWY_2000.flv?wsAuth=695cfda903ea87d5d7c31bff56c7cfbd&token=cpn-androidmpro-0-5040227-432528579fe94712c4ebe7a9da60974405978507342478ea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-跑跑卡丁车[1920*1080][1920*1080],http://tc-tct.douyucdn2.cn/dyliveflv1/7722576rWHyhVf6Z_2000.flv?wsAuth=ab356dc8a780d88cb9b081d31a332871&token=cpn-androidmpro-0-7722576-6b878e1c279c4ee565699e37562a6fd1a66c38ea03853790&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-
-台湾频道,#genre#
-TVBS新闻HD[1920*1080],http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-
-美国频道,#genre#
-FOX 4 Dallas / Fort Worth TX (KDFW) (720p)[640*360][640*360],https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
-CBS 2 Greensboro NC (WFMY) (1080p)[1920*1080][1920*1080],https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
-KBRI Brighton Channel 8 (Brighton CO) (720p)[1280*720][1280*720],https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/brightonco/G0883_001/playlist.m3u8
-KBS World (720p)[1280*720][1280*720],https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBSV/AssyriaSat (720p) [Not 24/7][1280*720][1280*720],http://66.242.170.53/hls/live/temp/index.m3u8
-Kern County Television[1280*720][1280*720],https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8
-KidsFlix (1080p) [Not 24/7][1280*720][1920*1080],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-KITV (News)[640*360][640*360],https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8
-
-英国频道,#genre#
-Beano TV (720p)[640*360],https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
-BeritaSatu World (720p)[1280*720],https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-CNN International Germany (720p)[960*540],https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-Comedy Channel (1080p)[640*360],https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-Craft Store TV (720p)[1024*576],https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
-CurrentTime[640*360],http://81.94.196.204/tsstreamer/CurrentTime_SD.ts
-
-日本频道,#genre#
-NHK BSP (720p)[1280*720],http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
-NHK G (JOAK-DTV) (720p)[1280*720],https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_720/playlist.m3u8
-NHK World Japan (1080p)[1280*720],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-Nippon TV (540p) [Not 24/7][960*540],https://ntv3.mov3.co/hls/ntv.m3u8
-NTV News24 (480p)[854*480],https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-Sofy TV (720p)[640*360],https://sofy-ger-samsung.amagi.tv/playlist.m3u8
